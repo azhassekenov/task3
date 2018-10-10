@@ -30,7 +30,7 @@ public class Task3Test {
     }
 
     @Test
-    public void testSummaVsehChisel() throws Exception {
+    public void testyesOrNo() throws Exception {
 
         assertEquals((Object)"YES", (Object)task.yesOrNo("...XX.....\n" +
                 "...X.OOOO.\n" +
